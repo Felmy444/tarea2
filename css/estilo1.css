@@ -1,0 +1,33 @@
+.contenedor1{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja{
+    background-color: gold;
+    width: 340px;
+    height: 800px;
+    margin: 5px;
+}
+.caja1{
+    height: 125px;
+    width: 330px;
+    background-color: orangered;
+    margin: 5px;
+}
+.caja2{
+    display: inline-block;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 5px ;
+}
+.caja3{
+    display: inline-block;
+    background-color: red;
+    height: 270px;
+    width: 100px;
+    margin: 5px;
+}
